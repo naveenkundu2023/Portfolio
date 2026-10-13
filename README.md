@@ -1,0 +1,2 @@
+# nse-dashboard
+breakout strategy
