@@ -89,6 +89,7 @@ NIFTY50 = {
     "Power Grid": "POWERGRID.NS",
     "Reliance": "RELIANCE.NS",
     "SBI": "SBIN.NS",
+}
     "SBI Life": "SBILIFE.NS",
     "Shriram Finance": "SHRIRAMFIN.NS",
     "Sun Pharma": "SUNPHARMA.NS",
